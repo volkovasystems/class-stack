@@ -22,4 +22,6 @@ Stack.prototype.pop = function pop( ){
     }
 };
 
-Stack.prototype.
+Stack.prototype.has = function has( value ){
+
+};
